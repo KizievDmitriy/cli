@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KizievDmitriy/cli/issues"
   },
-  "homepage": "https://github.com/KizievDmitriy/cli#readme"
+  "homepage": "https://github.com/KizievDmitriy/cli#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
